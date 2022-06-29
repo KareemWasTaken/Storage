@@ -1,4 +1,3 @@
-lua
 getgenv().AntiStomp = true -- this is your toggle (unless you just want to stop the loop)
 
 
